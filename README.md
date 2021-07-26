@@ -20,9 +20,8 @@ RQ2: The second challenge is in poor key management procedures.
 RQ3: there are no standardized cloud-specific security metrics that cloud customers can use to monitor the security status of their cloud resources.
 
 
-SUMMARY
-Cloud computing has started new era in the internet world
-not only for data storage but also on the availability, Security
+SUMMARY:
+Cloud computing has started new era in the internet world not only for data storage but also on the availability, Security
 and maintenance. However we need to understand the security
 issues or any challenges among all cloud based technologies
 before committing the code or data in third party. In this
