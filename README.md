@@ -19,6 +19,27 @@ RQ2: The second challenge is in poor key management procedures.
 
 RQ3: there are no standardized cloud-specific security metrics that cloud customers can use to monitor the security status of their cloud resources.
 
+
+SUMMARY
+Cloud computing has started new era in the internet world
+not only for data storage but also on the availability, Security
+and maintenance. However we need to understand the security
+issues or any challenges among all cloud based technologies
+before committing the code or data in third party. In this
+paper I have concentrated major security issues and few
+vulnerabilities in different models and services.
+Vulnerabilities that are relevant for all cloud computing
+components typically concern the provider or rather users’
+inability to control cloud infrastructure as they do their own
+infrastructure. Among the control challenges are insufficient
+security audit possibilities, and the fact that certification
+schemes and security metrics aren’t adopted to cloud computing.
+Further, standard security controls regarding audit,
+certification, and continuous security monitoring can’t be
+implemented effectively.
+
+
+
 References:
 [1]. B. Grobauer, T. Walloschek and E. Stöcker, "Understanding Cloud Computing
 Vulnerabilities," IEEE Security and Privacy, vol. 99, 2010.
