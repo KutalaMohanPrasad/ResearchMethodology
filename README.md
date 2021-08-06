@@ -5,20 +5,30 @@
 Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure.Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. Customers must demand transparency, avoiding vendors that refuse to provide detailed information on security programs. Ask questions related to the qualifications of policy makers, architects, coders and operators, risk-control processes and technical mechanisms and the level of testing that's been done to verify that service and control processes are functioning as intended, and that vendors can identify unanticipated vulnerabilities.
 
 # Features list
---> Infrastructure as a Service (IaaS)
+
 ![image](https://user-images.githubusercontent.com/77629263/127060122-57ca2244-fd0e-453d-a466-695999e32dd3.png)
+--> Infrastructure as a Service (IaaS)
 --> Software as a Service (SaaS)
--->Platform as a service (PaaS)
+--> Platform as a service (PaaS)
 --> Cryptography
+
 # project Motivation
+Moving to the cloud provides an easy way to archive data without investing in an on-premise infrastructure. Many organizations are moving infrequently accessed data (archive data) to the cloud to meet compliance regulations. In the past, tape storage was a common way to store data offsite, but the technology itself had a lot of issues, such as managing tape rotations, constantly changing technology and deterioration of tapes in storage.
+
+when i was working in top MNC company they moved from IBM servers to cloud but earlier we had so many security walls to reach single word inside the server. So, what about if we move our data to cloud
+
+why move your company data to the cloud? What's so special about it? What's the security that third party providing to you? How about personal data?
+
+Based on these questions i started research on cloud platforms
+
 # Cloud Configuaration
+
+
+
 # operating Instructions
 # Bugs list
 # Troubleshooting
 # News
-
-
-SECURITY ISSUES IN CLOUD COMPUTING
 
 
 RESEARCH QUESTIONS:
