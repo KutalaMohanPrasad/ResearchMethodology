@@ -22,10 +22,45 @@ why move your company data to the cloud? What's so special about it? What's the 
 Based on these questions i started research on cloud platforms
 
 # Cloud Configuaration
+How to create Microsoft Azure Account 
+To create a new work account for your company, follow the steps below. You may need to request assistance from whoever has administrative permissions on your company's Microsoft Azure account.
 
+1.Sign in to the Microsoft Azure portal (https://portal.azure.com).
+
+2.From the left navigation menu, select the Azure Active Directory > Users.
+
+3.Select New user and create a new Azure work account by entering a name and work email address. Ensure the Directory role is set as per the User requirement and select the Show Password checkbox at the bottom to view and make a note of the auto-generated password.
+
+4.Complete the other required fields and select Create to save the new user.
+
+The email address for the user account must be a verified domain name in your directory. You can list all the verified domains in your directory by selecting Azure Active Directory > Custom domain names in the left-navigation menu.
+
+How to create AWS Cloud Account 
+
+1. Open the AWS website(http://aws.amazon.com/) and click Sign Up.
+
+2. Follow the on-screen instructions. Part of the sign-up procedure involves receiving a phone call and entering a PIN using your phone keypad.
+
+Next, create an IAM user and download (or copy) its secret access key.
+
+3. Go to the IAM console (you may need to sign in to AWS first).
+
+4. Click Users in the sidebar to view your IAM users.
+
+5. If you don’t have any IAM users set up, click Create New Users to create one.
+
+6 Select the IAM user in the list that you’ll use to access AWS.
+
+7. Open the Security Credentials tab, and click Create Access Key.
+
+9. On the resulting dialog box, click the Download Credentials button to download the credential file to your computer, or click Show User Security Credentials to view the IAM user’s access key ID and secret access key (which you can copy and paste).
 
 
 # operating Instructions
+
+
+
+
 # Bugs list
 # Troubleshooting
 # News
