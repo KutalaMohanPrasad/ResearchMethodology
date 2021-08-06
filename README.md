@@ -22,7 +22,8 @@ why move your company data to the cloud? What's so special about it? What's the 
 Based on these questions i started research on cloud platforms
 
 # Cloud Configuaration
-**How to create Microsoft Azure Account **
+
+**How to create Microsoft Azure Account**
 
 To create a new work account for your company, follow the steps below. You may need to request assistance from whoever has administrative permissions on your company's Microsoft Azure account.
 
