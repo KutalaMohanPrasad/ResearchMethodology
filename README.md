@@ -193,7 +193,7 @@ implemented effectively.
 
 
 
-Manifest:
+# Manifest:
 
 * B. Grobauer, T. Walloschek and E. Stöcker, "Understanding Cloud Computing
 Vulnerabilities," IEEE Security and Privacy, vol. 99, 2010.
