@@ -22,7 +22,8 @@ why move your company data to the cloud? What's so special about it? What's the 
 Based on these questions i started research on cloud platforms
 
 # Cloud Configuaration
-How to create Microsoft Azure Account 
+**How to create Microsoft Azure Account **
+
 To create a new work account for your company, follow the steps below. You may need to request assistance from whoever has administrative permissions on your company's Microsoft Azure account.
 
 1.Sign in to the Microsoft Azure portal (https://portal.azure.com).
@@ -35,7 +36,7 @@ To create a new work account for your company, follow the steps below. You may n
 
 The email address for the user account must be a verified domain name in your directory. You can list all the verified domains in your directory by selecting Azure Active Directory > Custom domain names in the left-navigation menu.
 
-How to create AWS Cloud Account 
+**How to create AWS Cloud Account**
 
 1. Open the AWS website(http://aws.amazon.com/) and click Sign Up.
 
