@@ -137,6 +137,12 @@ A dialogue box opens asking you to confirm your changes.
 
 
 # Bugs list
+If we gonna create cloud front without having privilege access we will get below error and for my student account i don't have some access to create security groups but i tried to create it in AWS cloud but it throws below errors.
+
+![image](https://user-images.githubusercontent.com/77629263/128560975-32b3b0be-83ae-4059-9759-b08d21b1467b.png)
+
+For creating DNS firewall:
+![image](https://user-images.githubusercontent.com/77629263/128561514-8a735746-d7ff-47ee-a3c5-9cc54b921717.png)
 
 
 # Troubleshooting
