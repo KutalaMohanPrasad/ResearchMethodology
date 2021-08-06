@@ -1,7 +1,15 @@
-# Security Issues in Cloud Computing
+## Security Issues in Cloud Computing
 
 # project Description
+
+Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure.Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. Customers must demand transparency, avoiding vendors that refuse to provide detailed information on security programs. Ask questions related to the qualifications of policy makers, architects, coders and operators, risk-control processes and technical mechanisms and the level of testing that's been done to verify that service and control processes are functioning as intended, and that vendors can identify unanticipated vulnerabilities.
+
 # Features list
+--> Infrastructure as a Service (IaaS)
+![image](https://user-images.githubusercontent.com/77629263/127060122-57ca2244-fd0e-453d-a466-695999e32dd3.png)
+--> Software as a Service (SaaS)
+-->Platform as a service (PaaS)
+--> Cryptography
 # project Motivation
 # Cloud Configuaration
 # operating Instructions
@@ -10,14 +18,8 @@
 # News
 
 
-Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure. It advantages to mention but a few include scalability, resilience, flexibility, efficiency and outsourcing non-core activities. Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. Despite of all the hype surrounding the cloud, customers are still reluctant to deploy their business in the cloud. Customers must demand transparency, avoiding vendors that refuse to provide detailed information on security programs. Ask questions related to the qualifications of policy makers, architects, coders and operators, risk-control processes and technical mechanisms and the level of testing that's been done to verify that service and control processes are functioning as intended, and that vendors can identify unanticipated vulnerabilities.
-
 SECURITY ISSUES IN CLOUD COMPUTING
---> Infrastructure as a Service (IaaS)
-![image](https://user-images.githubusercontent.com/77629263/127060122-57ca2244-fd0e-453d-a466-695999e32dd3.png)
---> Software as a Service (SaaS)
--->Platform as a service (PaaS)
---> Cryptography
+
 
 RESEARCH QUESTIONS:
 RQ1: First, virtualized networks offer insufficient networkbased controls.Given the nature of cloud services, the administrative access to IaaS network infrastructure and the ability to tailor network infrastructure are typically limited
