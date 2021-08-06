@@ -5,6 +5,7 @@
 Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure.Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. Customers must demand transparency, avoiding vendors that refuse to provide detailed information on security programs. Ask questions related to the qualifications of policy makers, architects, coders and operators, risk-control processes and technical mechanisms and the level of testing that's been done to verify that service and control processes are functioning as intended, and that vendors can identify unanticipated vulnerabilities.
 
 # Features list
+In every cloud paltforms below services are common and accessable based on the role we have created. Below is the common diagram of basic services in cloud platform
 
 ![image](https://user-images.githubusercontent.com/77629263/127060122-57ca2244-fd0e-453d-a466-695999e32dd3.png)
 
@@ -163,7 +164,7 @@ https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2
 * Security In The Cloud Is Enhanced By Artificial Intelligence https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/?sh=38d418563967
 * Cloud security: How to block and tackle https://www.ibm.com/blogs/cloud-computing/2014/11/30/cloud-security-how-to-block-and-tackle/
 
-RESEARCH QUESTIONS:
+# RESEARCH QUESTIONS:
 RQ1: First, virtualized networks offer insufficient networkbased controls.Given the nature of cloud services, the administrative access to IaaS network infrastructure and the ability to tailor network infrastructure are typically limited
 ![image](https://user-images.githubusercontent.com/77629263/127060358-a7a89f87-94e9-45d6-b8d8-7fc23d4df46b.png)
 
@@ -172,25 +173,6 @@ for example, friendly scans can’t be distinguished from attacker activity.
 RQ2: The second challenge is in poor key management procedures.
 
 RQ3: there are no standardized cloud-specific security metrics that cloud customers can use to monitor the security status of their cloud resources.
-
-
-SUMMARY:
-Cloud computing has started new era in the internet world not only for data storage but also on the availability, Security
-and maintenance. However we need to understand the security
-issues or any challenges among all cloud based technologies
-before committing the code or data in third party. In this
-paper I have concentrated major security issues and few
-vulnerabilities in different models and services.
-Vulnerabilities that are relevant for all cloud computing
-components typically concern the provider or rather users’
-inability to control cloud infrastructure as they do their own
-infrastructure. Among the control challenges are insufficient
-security audit possibilities, and the fact that certification
-schemes and security metrics aren’t adopted to cloud computing.
-Further, standard security controls regarding audit,
-certification, and continuous security monitoring can’t be
-implemented effectively.
-
 
 
 # Manifest:
