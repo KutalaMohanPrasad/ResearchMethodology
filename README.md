@@ -7,10 +7,14 @@ Cloud computing is a set of services that provided by different IT vendors for r
 # Features list
 
 ![image](https://user-images.githubusercontent.com/77629263/127060122-57ca2244-fd0e-453d-a466-695999e32dd3.png)
---> Infrastructure as a Service (IaaS)
---> Software as a Service (SaaS)
---> Platform as a service (PaaS)
---> Cryptography
+
+* Infrastructure as a Service (IaaS)
+
+* Software as a Service (SaaS)
+
+*  Platform as a service (PaaS)
+
+*  Cryptography
 
 # project Motivation
 Moving to the cloud provides an easy way to archive data without investing in an on-premise infrastructure. Many organizations are moving infrequently accessed data (archive data) to the cloud to meet compliance regulations. In the past, tape storage was a common way to store data offsite, but the technology itself had a lot of issues, such as managing tape rotations, constantly changing technology and deterioration of tapes in storage.
