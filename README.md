@@ -137,9 +137,13 @@ A dialogue box opens asking you to confirm your changes.
 
 
 # Bugs list
+
+
 # Troubleshooting
+
+
 # News
-News on cloud security and issues in 2020 and 2021. listed all articles i have refered apart from the references listed
+News on cloud security and issues in 2020 and 2021.Below listed articles referred apart from the references listed
 
 * The 5 Biggest Cloud Computing Trends In 2021 https://www.forbes.com/sites/bernardmarr/2020/11/02/the-5-biggest-cloud-computing-trends-in-2021/?sh=7b0546e412d9
 * Top 5 Cloud Security Trends for 2021 https://www.bmc.com/blogs/cloud-security-trends/
