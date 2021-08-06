@@ -59,8 +59,77 @@ Next, create an IAM user and download (or copy) its secret access key.
 
 
 # operating Instructions
+you will create an Amazon Virtual Private Cloud (Amazon VPC). When you create the Amazon VPC, you will create a public and a private subnet to manage the
+flow of traffic between the subnet and the internet gateway. Below is a diagram of the infrastructure you will build:
 
+![image](https://user-images.githubusercontent.com/77629263/128557652-9321f50d-acd0-4ee3-942d-2339f6aef2fb.png)
 
+**Create a non-default Amazon VPC
+1. In the AWS Management Console find the VPC dashboard.
+2. Click on Your VPCs.
+3. Click Create VPC.
+4. Configure the following settings, leaving other fields at their default values:
+* VPC name: MyVPC
+* Public subnet's IPv4 CIDR: 10.0.0.0/16
+* IPv6 CIDR Block: No IPV6 CIDR Block
+* Tenancy: Default
+5. Click Create to create your Amazon VPC.
+6. Click Close to return to your VPC Dashboard.
+
+**Create a public subnet
+1. In the VPC dashboard, click Subnets in the left sidebar.
+2. Click Create subnet.
+3. Enter a Name tag: Public Subnet 1.
+4. Select the Amazon VPC you just created from the dropdown list.
+5. Save the Availability Zone as No preference.
+6. IPv4 CIDR Block: 10.0.1.0/24
+7. Click Create.
+
+**Create an internet gateway
+1. In the VPC dashboard, click Internet gateways in the left sidebar.
+2. Click Create internet gateway.
+3. Enter a Name tag: MyVPC_IG.
+4. Click Create
+Attach your internet gateway to your Amazon VPC
+1. In the VPC dashboard, click internet gateways in the left sidebar.
+2. Find your internet gateway and notice the state: detached.
+3. Select your internet gateway and Go to Actions  Attach to VPC.
+4. Select the non-default Amazon VPC names MyVPC from the list and click Attach.
+5. Click Close.
+
+**Task1:** Create an Amazon S3 bucket and store an image file Let’s being by creating an Amazon S3 bucket and then store a file. The Amazon S3 buckets
+needs to be configured to be publicly accessible.
+1. In the AWS Management Console, on the Services menu, click S3.
+2. In the Amazon S3 console, click Create bucket then configure:
+Bucket name: Select/create a globally unique bucket name here
+* Region: US East (N. Virginia)
+* Click Next
+* Tags:
+* Key – Name
+* Value – CloudFront Acceleration
+* Click Next
+* Click Next
+* Click Create bucket
+3. On the Amazon S3 Buckets page, click and highlight the Amazon S3 bucket you created.
+4. Locate and click the Permissions option. The Block all public access setting is set to On. This needs to be changed.
+5. Click Edit to change the settings.
+6. Deselect the Block all public access option. Leave all other options deselected
+7. Click Save
+A dialogue box opens asking you to confirm your changes.
+8. Type in the field, and then click Confirm
+9. Click Overview tab.
+10. Click Upload
+11. Click Add files
+12. Navigate to http://tinyurl.com/s3static to download and save these files to your desktop. Select an image from your computer that you would like to upload. If you don’t have a file prepared, visit https://unsplash.com/ to find and download an image to your desktop or use one of your own images. Then use that file for this step.
+13. Click Next
+14. To upload, set the permissions step, locate the Manage public permissions option, and click the dropdown arrow. Choose the Grant public read access to this object(s) option from the dropdown window selections. The following notification should display:
+15. Click Next
+16. Click Next
+17. Click Upload
+18. Copy the name of your file to your text editor for later use. For example, the name of your file could be “sample.png.”
+19. Click and highlight the file that you uploaded.
+20. In the slide out modal, locate the Overview section. Find and locate the Object URL, click it, and then copy the link to your clipboard
+21. Paste the link in a new browser tab. Press Enter.
 
 
 # Bugs list
