@@ -64,7 +64,7 @@ flow of traffic between the subnet and the internet gateway. Below is a diagram 
 
 ![image](https://user-images.githubusercontent.com/77629263/128557652-9321f50d-acd0-4ee3-942d-2339f6aef2fb.png)
 
-**Create a non-default Amazon VPC
+**Create a non-default Amazon VPC**
 1. In the AWS Management Console find the VPC dashboard.
 2. Click on Your VPCs.
 3. Click Create VPC.
@@ -76,7 +76,7 @@ flow of traffic between the subnet and the internet gateway. Below is a diagram 
 5. Click Create to create your Amazon VPC.
 6. Click Close to return to your VPC Dashboard.
 
-**Create a public subnet
+**Create a public subnet**
 1. In the VPC dashboard, click Subnets in the left sidebar.
 2. Click Create subnet.
 3. Enter a Name tag: Public Subnet 1.
@@ -85,7 +85,7 @@ flow of traffic between the subnet and the internet gateway. Below is a diagram 
 6. IPv4 CIDR Block: 10.0.1.0/24
 7. Click Create.
 
-**Create an internet gateway
+**Create an internet gateway**
 1. In the VPC dashboard, click Internet gateways in the left sidebar.
 2. Click Create internet gateway.
 3. Enter a Name tag: MyVPC_IG.
