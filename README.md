@@ -142,7 +142,7 @@ If we gonna create cloud front without having privilege access we will get below
 
 ![image](https://user-images.githubusercontent.com/77629263/128560975-32b3b0be-83ae-4059-9759-b08d21b1467b.png)
 
-For creating DNS firewall:
+For creating DNS firewall we have to create the security role for each user or public in student access we are seeing unkown errors like below but still we are able to access the S3 bucket how it will be possible? is it a bug? 
 ![image](https://user-images.githubusercontent.com/77629263/128561514-8a735746-d7ff-47ee-a3c5-9cc54b921717.png)
 
 
