@@ -147,7 +147,7 @@ For creating DNS firewall we have to create the security role for each user or p
 
 
 # Troubleshooting
-
+As per internet please reachout to AWS customer support {support@awseducate.com} they will answer and resolve any issues related to the cloud services.I sent couple of mails to them regarding error and access to different i got reply within 24 working hours.
 
 # News
 News on cloud security and issues in 2020 and 2021.Below listed articles referred apart from the references listed
