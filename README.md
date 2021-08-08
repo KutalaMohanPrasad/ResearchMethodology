@@ -165,15 +165,11 @@ https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2
 * Cloud security: How to block and tackle https://www.ibm.com/blogs/cloud-computing/2014/11/30/cloud-security-how-to-block-and-tackle/
 
 # RESEARCH QUESTIONS:
-RQ1: First, virtualized networks offer insufficient networkbased controls.Given the nature of cloud services, the administrative access to IaaS network infrastructure and the ability to tailor network infrastructure are typically limited
-![image](https://user-images.githubusercontent.com/77629263/127060358-a7a89f87-94e9-45d6-b8d8-7fc23d4df46b.png)
+RQ1: Why AWS throwing Errors inside Educate account?
 
-for example, friendly scans can’t be distinguished from attacker activity.
+RQ2: How key management procedures are there in Cloud Environment?
 
-RQ2: The second challenge is in poor key management procedures.
-
-RQ3: there are no standardized cloud-specific security metrics that cloud customers can use to monitor the security status of their cloud resources.
-
+RQ3:  What are the standardized cloud-specific security metrics that cloud customers can use to monitor the security status of their cloud resources.
 
 # Manifest:
 
