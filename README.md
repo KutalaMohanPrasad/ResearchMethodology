@@ -187,10 +187,10 @@ Available: www.kmworld.com [Aug. 19, 2009].
 * L. Youseff, M. Butrico, and D. Da Silva, “Towards a Unified Ontology of Cloud Computing,” Proc. Grid Computing Environments Workshop (GCE), IEEE Press, 2008; doi: 10.1109/GCE.2008.4738443.
 * M. A. Morsy, J. Grundy and Müller I. “An Analysis of the Cloud Computing Security Problem” In PROC APSEC 2010 Cloud Workshop. 2010.
 * R. K. Balachandra, P. V. Ramakrishna and A. Rakshit. “Cloud Security Issues.” In PROC ‘09 IEEE International Conference on Services Computing, 2009, pp 517-520.
-* Cloud Computing Use Case Discussion Group. "Cloud Computing UseCases Version 3.0,"2010.
 * “Sampling issues we are addressing”, http://cloudsecurityalliance.org/issues.html#15, accessed on April 09, 2009.
 *  “Service Level Agreement Definition and contents”, http://www.service-level-agreement.net, accessed on March 10, 2009.
 * http://www.cloudsecurity.org, accessed on April 10, 2009.
 * E. Grosse, “Security at Scale,” invited talk, ACM Cloud Security Workshop (CCSW), 2010; http://wn. com/2010_Google_Faculty_Summit_Security_at_Scale.
 * A Platform Computing Whitepaper. “Enterprise Cloud Computing: Transforming IT.” Platform Computing, pp6, 2010.
 * N. Leavitt. “Is Cloud Computing Really Ready for Prime Time?” Computer, vol. 42, pp. 15-20, 2009.
+* Cloud Computing Use Case Discussion Group. "Cloud Computing UseCases Version 3.0,"2010.
