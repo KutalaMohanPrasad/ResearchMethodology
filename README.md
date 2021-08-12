@@ -4,7 +4,7 @@
 
 Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure.Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. 
 
-# Features list
+## Features list
 In every cloud paltforms below services are common and accessable based on the role we have created. Below is the common diagram of basic services in cloud platform
 
 ![image](https://user-images.githubusercontent.com/77629263/127060122-57ca2244-fd0e-453d-a466-695999e32dd3.png)
@@ -17,7 +17,7 @@ In every cloud paltforms below services are common and accessable based on the r
 
 *  Cryptography
 
-# Project Motivation
+## Project Motivation
 Moving to the cloud provides an easy way to archive data without investing in an on-premise infrastructure. Many organizations are moving infrequently accessed data (archive data) to the cloud to meet compliance regulations. In the past, tape storage was a common way to store data offsite, but the technology itself had a lot of issues, such as managing tape rotations, constantly changing technology and deterioration of tapes in storage.
 
 when i was working in top MNC company they moved from IBM servers to cloud but earlier we had so many security walls to reach single word inside the server. So, what about if we move our data to cloud
@@ -26,7 +26,7 @@ why move your company data to the cloud? What's so special about it? What's the 
 
 Based on these questions i started research on cloud platforms
 
-# Cloud Configuaration
+## Cloud Configuaration
 
 **How to create Microsoft Azure Account**
 
@@ -63,7 +63,7 @@ Next, create an IAM user and download (or copy) its secret access key.
 9. On the resulting dialog box, click the Download Credentials button to download the credential file to your computer, or click Show User Security Credentials to view the IAM user’s access key ID and secret access key (which you can copy and paste).
 
 
-# Operating Instructions
+## Operating Instructions
 you will create an Amazon Virtual Private Cloud (Amazon VPC). When you create the Amazon VPC, you will create a public and a private subnet to manage the
 flow of traffic between the subnet and the internet gateway. Below is a diagram of the infrastructure you will build:
 
@@ -137,7 +137,7 @@ A dialogue box opens asking you to confirm your changes.
 21. Paste the link in a new browser tab. Press Enter.
 
 
-# Bugs list
+## Bugs list
 If we gonna create cloud front without having privilege access we will get below error and for my student account i don't have some access to create security groups but i tried to create it in AWS cloud but it throws below errors.
 
 ![image](https://user-images.githubusercontent.com/77629263/128560975-32b3b0be-83ae-4059-9759-b08d21b1467b.png)
@@ -146,10 +146,10 @@ For creating DNS firewall we have to create the security role for each user or p
 ![image](https://user-images.githubusercontent.com/77629263/128561514-8a735746-d7ff-47ee-a3c5-9cc54b921717.png)
 
 
-# Troubleshooting
+## Troubleshooting
 As per internet please reachout to AWS customer support {support@awseducate.com} they will answer and resolve any issues related to the cloud services.I sent couple of mails to them regarding error and access to different i got reply within 24 working hours.
 
-# News
+## News Articles
 News on cloud security and issues in 2020 and 2021.Below listed articles referred apart from the references listed
 
 * [The 5 Biggest Cloud Computing Trends In 2021](https://www.forbes.com/sites/bernardmarr/2020/11/02/the-5-biggest-cloud-computing-trends-in-2021/?sh=7b0546e412d9)
@@ -164,14 +164,14 @@ https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2
 * [Security In The Cloud Is Enhanced By Artificial Intelligence ](https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/?sh=38d418563967)
 * [Cloud security: How to block and tackle ](https://www.ibm.com/blogs/cloud-computing/2014/11/30/cloud-security-how-to-block-and-tackle/)
 
-# RESEARCH QUESTIONS:
+## RESEARCH QUESTIONS:
 RQ1: Why AWS throwing Errors inside Educate account?
 
 RQ2: How key management procedures are there in Cloud Environment?
 
 RQ3:  What are the standardized cloud-specific security metrics that cloud customers can use to monitor the security status of their cloud resources.
 
-# Manifest:
+## Manifest:
 
 * Journal i have prepared for my research 
 * ReadMe.md file to know about my research
