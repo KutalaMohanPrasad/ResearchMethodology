@@ -154,15 +154,15 @@ News on cloud security and issues in 2020 and 2021.Below listed articles referre
 
 * [The 5 Biggest Cloud Computing Trends In 2021](https://www.forbes.com/sites/bernardmarr/2020/11/02/the-5-biggest-cloud-computing-trends-in-2021/?sh=7b0546e412d9)
 * [Top 5 Cloud Security Trends for 2021](https://www.bmc.com/blogs/cloud-security-trends/)
-* Top Cloud Security Challenges for 2021, Hear from Mark Nunnikhoven, VP of Cloud Research at Trend Micro, on the top cloud security challenges that will be faced in 2021.
-https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2021.html
-* Insights of 25 cloud trends for 2021 and beyond https://www.accenture.com/nl-en/blogs/insights/cloud-trends
-* Pretty much every company has suffered some kind of cloud data breach https://www.techradar.com/news/pretty-much-every-company-has-suffered-some-kind-of-cloud-data-breach
-* Cybersecurity Stocks To Buy As Wave Of Ransomware Attacks Raises Alarm https://www.investors.com/news/technology/cybersecurity-stocks/
-* What Is A Cloud Security Review And Why Do I Need It? https://www.forbes.com/sites/forbestechcouncil/2020/07/16/what-is-a-cloud-security-review-and-why-do-i-need-it/?sh=75c3482a4be4
-* Understanding the landscape of cloud security By Chris Deverill https://www.techradar.com/news/understanding-the-landscape-of-cloud-security
-* Security In The Cloud Is Enhanced By Artificial Intelligence https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/?sh=38d418563967
-* Cloud security: How to block and tackle https://www.ibm.com/blogs/cloud-computing/2014/11/30/cloud-security-how-to-block-and-tackle/
+* [Top Cloud Security Challenges for 2021, Hear from Mark Nunnikhoven, VP of Cloud Research at Trend Micro, on the top cloud security challenges that will be faced in 2021.](
+https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2021.html)
+* [Insights of 25 cloud trends for 2021 and beyond ](https://www.accenture.com/nl-en/blogs/insights/cloud-trends)
+* [Pretty much every company has suffered some kind of cloud data breach ](https://www.techradar.com/news/pretty-much-every-company-has-suffered-some-kind-of-cloud-data-breach)
+* [Cybersecurity Stocks To Buy As Wave Of Ransomware Attacks Raises Alarm ](https://www.investors.com/news/technology/cybersecurity-stocks/)
+* [What Is A Cloud Security Review And Why Do I Need It? ](https://www.forbes.com/sites/forbestechcouncil/2020/07/16/what-is-a-cloud-security-review-and-why-do-i-need-it/?sh=75c3482a4be4)
+* [Understanding the landscape of cloud security By Chris Deverill ](https://www.techradar.com/news/understanding-the-landscape-of-cloud-security)
+* [Security In The Cloud Is Enhanced By Artificial Intelligence ](https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/?sh=38d418563967)
+* [Cloud security: How to block and tackle ](https://www.ibm.com/blogs/cloud-computing/2014/11/30/cloud-security-how-to-block-and-tackle/)
 
 # RESEARCH QUESTIONS:
 RQ1: Why AWS throwing Errors inside Educate account?
