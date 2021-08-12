@@ -32,7 +32,7 @@ Based on these questions i started research on cloud platforms
 
 To create a new work account for your company, follow the steps below. You may need to request assistance from whoever has administrative permissions on your company's Microsoft Azure account.
 
-1.Sign in to the Microsoft Azure portal (https://portal.azure.com).
+1.Sign in to the [Microsoft Azure portal](https://portal.azure.com).
 
 2.From the left navigation menu, select the Azure Active Directory > Users.
 
@@ -44,7 +44,7 @@ The email address for the user account must be a verified domain name in your di
 
 **How to create AWS Cloud Account**
 
-1. Open the AWS website(http://aws.amazon.com/) and click Sign Up.
+1. Open the [AWS website](http://aws.amazon.com/) and click Sign Up.
 
 2. Follow the on-screen instructions. Part of the sign-up procedure involves receiving a phone call and entering a PIN using your phone keypad.
 
@@ -125,7 +125,7 @@ A dialogue box opens asking you to confirm your changes.
 9. Click Overview tab.
 10. Click Upload
 11. Click Add files
-12. Navigate to http://tinyurl.com/s3static to download and save these files to your desktop. Select an image from your computer that you would like to upload. If you don’t have a file prepared, visit https://unsplash.com/ to find and download an image to your desktop or use one of your own images. Then use that file for this step.
+12. [Navigate to](http://tinyurl.com/s3static) to download and save these files to your desktop. Select an image from your computer that you would like to upload. If you don’t have a file prepared, [visit](https://unsplash.com/) to find and download an image to your desktop or use one of your own images. Then use that file for this step.
 13. Click Next
 14. To upload, set the permissions step, locate the Manage public permissions option, and click the dropdown arrow. Choose the Grant public read access to this object(s) option from the dropdown window selections. The following notification should display:
 15. Click Next
