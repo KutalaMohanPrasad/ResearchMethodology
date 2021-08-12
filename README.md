@@ -98,7 +98,7 @@ flow of traffic between the subnet and the internet gateway. Below is a diagram 
 Attach your internet gateway to your Amazon VPC
 1. In the VPC dashboard, click internet gateways in the left sidebar.
 2. Find your internet gateway and notice the state: detached.
-3. Select your internet gateway and Go to Actions  Attach to VPC.
+3. Select your internet gateway and Go to Actions Attach to VPC.
 4. Select the non-default Amazon VPC names MyVPC from the list and click Attach.
 5. Click Close.
 
