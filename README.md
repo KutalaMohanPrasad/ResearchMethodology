@@ -164,7 +164,7 @@ https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2
 * [Security In The Cloud Is Enhanced By Artificial Intelligence ](https://www.forbes.com/sites/davidteich/2021/04/01/security-in-the-cloud-is-enhanced-by-artificial-intelligence/?sh=38d418563967)
 * [Cloud security: How to block and tackle ](https://www.ibm.com/blogs/cloud-computing/2014/11/30/cloud-security-how-to-block-and-tackle/)
 
-## RESEARCH QUESTIONS:
+## Research Questions:
 RQ1: Why AWS throwing Errors inside Educate account?
 
 RQ2: How key management procedures are there in Cloud Environment?
