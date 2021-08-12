@@ -152,8 +152,8 @@ As per internet please reachout to AWS customer support {support@awseducate.com}
 # News
 News on cloud security and issues in 2020 and 2021.Below listed articles referred apart from the references listed
 
-* The 5 Biggest Cloud Computing Trends In 2021 https://www.forbes.com/sites/bernardmarr/2020/11/02/the-5-biggest-cloud-computing-trends-in-2021/?sh=7b0546e412d9
-* Top 5 Cloud Security Trends for 2021 https://www.bmc.com/blogs/cloud-security-trends/
+* [The 5 Biggest Cloud Computing Trends In 2021] (https://www.forbes.com/sites/bernardmarr/2020/11/02/the-5-biggest-cloud-computing-trends-in-2021/?sh=7b0546e412d9)
+* [Top 5 Cloud Security Trends for 2021] (https://www.bmc.com/blogs/cloud-security-trends/)
 * Top Cloud Security Challenges for 2021, Hear from Mark Nunnikhoven, VP of Cloud Research at Trend Micro, on the top cloud security challenges that will be faced in 2021.
 https://www.trendmicro.com/en_us/devops/21/b/top-cloud-security-challenges-for-2021.html
 * Insights of 25 cloud trends for 2021 and beyond https://www.accenture.com/nl-en/blogs/insights/cloud-trends
