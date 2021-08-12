@@ -1,6 +1,6 @@
 ## Security Issues in Cloud Computing
 
-# project Description
+# Project Description
 
 Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure.Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. 
 
@@ -17,7 +17,7 @@ In every cloud paltforms below services are common and accessable based on the r
 
 *  Cryptography
 
-# project Motivation
+# Project Motivation
 Moving to the cloud provides an easy way to archive data without investing in an on-premise infrastructure. Many organizations are moving infrequently accessed data (archive data) to the cloud to meet compliance regulations. In the past, tape storage was a common way to store data offsite, but the technology itself had a lot of issues, such as managing tape rotations, constantly changing technology and deterioration of tapes in storage.
 
 when i was working in top MNC company they moved from IBM servers to cloud but earlier we had so many security walls to reach single word inside the server. So, what about if we move our data to cloud
@@ -63,7 +63,7 @@ Next, create an IAM user and download (or copy) its secret access key.
 9. On the resulting dialog box, click the Download Credentials button to download the credential file to your computer, or click Show User Security Credentials to view the IAM user’s access key ID and secret access key (which you can copy and paste).
 
 
-# operating Instructions
+# Operating Instructions
 you will create an Amazon Virtual Private Cloud (Amazon VPC). When you create the Amazon VPC, you will create a public and a private subnet to manage the
 flow of traffic between the subnet and the internet gateway. Below is a diagram of the infrastructure you will build:
 
