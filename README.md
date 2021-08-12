@@ -173,6 +173,6 @@ RQ3:  What are the standardized cloud-specific security metrics that cloud custo
 
 # Manifest:
 
-* Yet to Read
-* Reading Done
+* Journal i have prepared for my research 
+* ReadMe.md file to know about my research
 
