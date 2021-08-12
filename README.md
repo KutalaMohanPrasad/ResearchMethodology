@@ -1,6 +1,6 @@
-## Security Issues in Cloud Computing
+# Security Issues in Cloud Computing
 
-# Project Description
+## Project Description
 
 Cloud computing is a set of services that provided by different IT vendors for rental to perform our activities in software era. Usually cloud computing services are delivered by a third party provider who owns the infrastructure.Cloud computing offers an innovative business model for organizations to adopt IT services without upfront investment. But as more and more information on individuals and companies are placed in the cloud, concerns are beginning to grow about just how safe an environment it is. 
 
